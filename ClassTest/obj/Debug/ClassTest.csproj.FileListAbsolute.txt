@@ -1,0 +1,6 @@
+C:\Users\1\Downloads\ClassTest\ClassTest\bin\Debug\ClassTest.dll
+C:\Users\1\Downloads\ClassTest\ClassTest\bin\Debug\ClassTest.pdb
+C:\Users\1\Downloads\ClassTest\ClassTest\obj\Debug\ClassTest.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\ClassTest\ClassTest\obj\Debug\ClassTest.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\ClassTest\ClassTest\obj\Debug\ClassTest.dll
+C:\Users\1\Downloads\ClassTest\ClassTest\obj\Debug\ClassTest.pdb
